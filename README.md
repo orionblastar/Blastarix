@@ -39,3 +39,5 @@ This project is at the earliest stages right now, don't expect too much. We need
 We really need your help and support on this project. When the Neurochips are implanted into our brains, you will want free software you can modify instead of closed source software you cannot modify that has backdoors in it.
 
 http://www.amazon.com/America-The-Enslaved-Neurochip-ebook/dp/B007LAX6YY 
+
+http://blastar.in/
